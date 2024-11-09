@@ -15,36 +15,6 @@
 
 
 
-### Glad to see you here!
-I’m a Back-end developer who has turned years of freelancing into a full-time career.
-
-I specialize in building robust backends that do all the heavy lifting for your app or website. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and Machine Learning.
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on Roa Barmajia  
-  
-
-- 🌱 I’m currently learning Front-end Angular and Machine Learning   
-  
-
-- ❓ Ask me about anything related to .Net core  and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://github.com/AhmedShahine1/AhmedShahine1/blob/main/%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A7%D8%AA%20%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%88%D9%89.gif" align="center" style="width: 100%" />
-</div>  
-
-
 </td></tr></table>  
 
 <br/>  
