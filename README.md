@@ -29,7 +29,7 @@
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px Padding: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px Padding: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://tailwindui.com/templates" target="_blank"><img style="margin: 10px Padding: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhoXisDruJMDAq3Ltd-wuaMW2lGxck9wAKw&s" alt="tailwind" height="50" /></a>  
-<a href="https://react.dev/" target="_blank"><img style="margin: 10px Padding: 10px" src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" alt="react" height="50" /></a>  
+<a href="https://react.dev/" target="_blank"><img style="margin: 10px Padding: 10px" src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" alt="react" height="30" /></a>  
 </div>  
 
 <br/> 
